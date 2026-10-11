@@ -14,9 +14,9 @@
 
 | # | Module | Deadline | Status | Solution |
 |---|--------|----------|--------|----------|
-| 01 | Introduction to Machine Learning | 28 Sep 2026 | ✅ | [HW01](./hw01/) |
-| 02 | Machine Learning for Regression | 05 Oct 2026 | ⏳ | [HW02](./hw02/) |
-| 03 | Machine Learning for Classification | 12 Oct 2026 | ⏳ | [HW03](./hw03/) |
+| 01 | Introduction to Machine Learning | 28 Sep 2026 | ✅ | [HW01](./01-intro/) |
+| 02 | Machine Learning for Regression | 05 Oct 2026 | ✅ | [HW02](./02-regression/) |
+| 03 | Machine Learning for Classification | 12 Oct 2026 | ✅ | [HW03](./03-classification/) |
 | 04 | Evaluation Metrics for Classification | 19 Oct 2026 | ⏳ | [HW04](./hw04/) |
 | 05 | Deploying Machine Learning Models | 26 Oct 2026 | ⏳ | [HW05](./hw05/) |
 | 06 | Decision Trees and Ensemble Learning | 02 Nov 2026 | ⏳ | [HW06](./hw06/) |
