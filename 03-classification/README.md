@@ -18,4 +18,4 @@ My solutions to Homework 3:
 
 ## 📷 Documentation
 
-![Module 2 Progress](../assets/documentation/progress-module-03.jpg)
+![Module 3 Progress](../assets/documentation/progress-module-03.jpg)
