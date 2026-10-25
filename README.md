@@ -19,7 +19,7 @@
 | 03 | Machine Learning for Classification | 12 Oct 2026 | ✅ | [HW03](./03-classification/) |
 | 04 | Evaluation Metrics for Classification | 19 Oct 2026 | ✅ | [HW04](./04-evaluation/) |
 | 05 | Deploying Machine Learning Models | 26 Oct 2026 | ✅ | [HW05](./05-deployment/) |
-| 06 | Decision Trees and Ensemble Learning | 02 Nov 2026 | ⏳ | [HW06](./hw06/) |
+| 06 | Decision Trees and Ensemble Learning | 02 Nov 2026 | ✅ | [HW06](./06-trees/) |
 | 08 | Neural Networks and Deep Learning | 30 Nov 2026 | ⏳ | [HW08](./hw08/) |
 | 09 | Serverless Deep Learning | 07 Dec 2026 | ⏳ | [HW09](./hw09/) |
 | 10 | Kubernetes | 14 Dec 2026 | ⏳ | [HW10](./hw10/) |
